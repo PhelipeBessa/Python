@@ -1,7 +1,7 @@
 # Tuturial de como criar arquivo HTML em Python
 ---
 
-```
+```python
 # string com o código HTML 
 codigo_html = ''' 
 <html>
